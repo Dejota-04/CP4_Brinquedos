@@ -1,0 +1,9 @@
+Checkpoint 4 - Advanced Business Development with .NET
+Turma: 2TDSPS
+
+Integrantes:
+- Daniel Santana Correa Batista - RM: 559622
+- Jonas de Jesus Campos de Oliveira - RM: 561144
+- Wendell Nascimento Dourado - RM: 559336
+
+Link do GitHub: https://github.com/Dejota-04/CP4_Brinquedos.git
